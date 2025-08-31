@@ -30,6 +30,4 @@ I enjoy building projects using **JavaScript, Python, and React**, and continuou
 
 ---
 
-## 📊 GitHub Stats
-![Islam's GitHub stats](https://github.com/islam-isbah)
 

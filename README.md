@@ -26,7 +26,6 @@ I enjoy building projects using **JavaScript, Python, and React**, and continuou
 ---
 
 ## 🎨 Fun GIF
-<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="150"/>
 
 ---
 
